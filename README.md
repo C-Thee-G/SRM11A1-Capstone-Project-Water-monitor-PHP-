@@ -38,7 +38,8 @@ DB_HOST=localhost
 DB_NAME=water_monitor
 DB_USER=root
 DB_PASS=
-🌟 Key Features
+
+### 🌟 Key Features
 Real-time water usage tracking
 
 AI-powered leak detection alerts
@@ -51,14 +52,14 @@ Neighborhood consumption benchmarking
 
 Admin dashboard for municipality staff
 
-🧑‍💻 Admin Access
+### 🧑‍💻 Admin Access
 Default admin credentials:
 
 Username: admin
 
 Password: Admin@123
 
-📊 Sample Data
+### 📊 Sample Data
 The database comes pre-loaded with:
 
 10 water conservation tips
@@ -67,10 +68,10 @@ System configuration settings
 
 Sample admin user
 
-📜 License
+### 📜 License
 This project is licensed under the MIT License.
 
-📧 Contact
+### 📧 Contact
 For implementation inquiries or customization requests:
 📩 ncubemcliff@gmail.com
 
